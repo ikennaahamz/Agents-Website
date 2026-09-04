@@ -16,7 +16,7 @@ window.SITE_CONFIG = {
   ],
   // Supabase — paste your project values here to enable DB storage.
   // Leave empty to run in email+WhatsApp-only mode (still works).
-  supabaseUrl: "",
-  supabaseAnonKey: "",
+  supabaseUrl: "https://txrleluibjsefxjhlnbs.supabase.co",
+  supabaseAnonKey: "sb_publishable_29gqnL_QBGq8p0iLC2AIKQ_thE24Vji",
   supabaseTable: "leads"
 };
